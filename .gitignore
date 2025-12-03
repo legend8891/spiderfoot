@@ -173,3 +173,5 @@ cover/
 # Documentation #
 #################
 docs/_build/
+
+/net-commander
